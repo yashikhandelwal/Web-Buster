@@ -14,8 +14,8 @@ print("\n\n")
 prYellow(sep)
 print("\n\n\n\n")
 
-prCyan(banner_me)
-print("\n\n\n\n")
+#prCyan(banner_me)
+#print("\n\n\n\n")
 
 
 prGreen(aut)
